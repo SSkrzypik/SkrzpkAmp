@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STPS2L40AF
+D Schottky Diodes & Rectifiers 40V Low Drop Rec 2A If 0.34V VF
+K
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/ca/8a/ee/ed/5b/ef/47/60/CD00002299.pdf/files/CD00002299.pdf/jcr:content/translations/en.CD00002299.pdf
+$ENDCMP
+#
+#End Doc Library

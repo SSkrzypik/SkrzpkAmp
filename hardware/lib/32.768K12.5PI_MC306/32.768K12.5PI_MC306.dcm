@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 32.768K12.5PI_MC306
+D 32.768 kHz +/-20ppm Crystal 12.5pF 50 kOhms 4-SOJ, 5.5mm pitch
+K
+F https://www.yic.com.tw/wp-content/uploads/2022/12/YIC-MC306-SM38A-SM26B-SM26BSP-Series.pdf
+$ENDCMP
+#
+#End Doc Library

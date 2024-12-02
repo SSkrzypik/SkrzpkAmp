@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DR125-100-R
+D Eaton Bussmann Series, DR, 0125 Shielded Wire-wound SMD Inductor with a Ferrite Core, 10 uH +/-20% Wire-Wound 7.17A Idc
+K
+F https://www.eaton.com/content/dam/eaton/products/electronic-components/resources/data-sheet/eaton-dr-high-power-density-high-efficiency-shielded-drum-core-power-inductors-data-sheet.pdf
+$ENDCMP
+#
+#End Doc Library

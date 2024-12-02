@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BQ32002D
+D Real-Time Clock (RTC)
+K
+F http://www.ti.com/lit/gpn/BQ32002
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "PCBLIB_JDY-64-BLUETOOTH-AUDIO-MODULE_2024-10-20")(type "EasyEDA / JLCEDA Std")(uri "${KIPRJMOD}/lib/PCBLIB_JDY-64-BLUETOOTH-AUDIO-MODULE_2024-10-20.json")(options "")(descr ""))
+  (lib (name "tpa3116")(type "KiCad")(uri "${KIPRJMOD}/lib/tpa3116")(options "")(descr ""))
+  (lib (name "fpc_conn_13")(type "KiCad")(uri "${KIPRJMOD}/lib/fpc_conn_13.pretty")(options "")(descr ""))
+  (lib (name "TS5A22364DGSR")(type "KiCad")(uri "${KIPRJMOD}/lib/TS5A22364DGSR.pretty")(options "")(descr ""))
+  (lib (name "AT24CS01-SSHM")(type "KiCad")(uri "${KIPRJMOD}/lib/AT24CS01-SSHM.pretty")(options "")(descr ""))
+  (lib (name "SkrzpkAmpLibs")(type "KiCad")(uri "${KIPRJMOD}/lib/SkrzpkAmpLibs.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPA3116D2DADR
+D 50-W Stereo (BTL) Class-D Audio Amp w/ SpeakerGuard
+K
+F http://www.ti.com/lit/gpn/tpa3116d2
+$ENDCMP
+#
+#End Doc Library

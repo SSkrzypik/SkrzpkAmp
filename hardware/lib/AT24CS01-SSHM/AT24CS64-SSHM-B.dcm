@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AT24CS64-SSHM-B
+D Microchip Technology AT24CS64-SSHM-B, 64kbit Serial EEPROM Memory 8-Pin JEDEC SOIC Serial-2 Wire
+K
+F http://ww1.microchip.com/downloads/en/devicedoc/atmel-8870-seeprom-at24cs64-datasheet.pdf
+$ENDCMP
+#
+#End Doc Library

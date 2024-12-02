@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TS5A22364DGSR
+D Analog Switch ICs 0.65-Ohm Dual SPDT Analog Switch
+K
+F https://www.ti.com/lit/gpn/TS5A22364
+$ENDCMP
+#
+#End Doc Library
